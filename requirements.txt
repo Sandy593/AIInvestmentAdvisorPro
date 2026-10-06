@@ -1,0 +1,34 @@
+# Core dependencies for AI Stock Research Application
+gradio>=4.0.0
+pandas>=2.3.1
+yfinance>=0.2.65
+markdown>=3.5.0
+
+# AI, LangGraph, and LangSmith dependencies
+crewai>=0.150.0
+langchain-community>=0.3.27
+langchain-openai>=0.3.28
+langchain-core>=0.3.0
+langgraph>=0.6.0
+langsmith>=0.4.0
+
+# Data validation and configuration
+pydantic>=2.11.7
+python-dotenv>=1.1.1
+
+# HTTP requests and API calls
+requests>=2.32.4
+
+# Communication services
+twilio>=9.6.5
+
+# Standard library dependencies (included for reference)
+# sqlite3 - built into Python
+# smtplib - built into Python
+# email - built into Python
+# json - built into Python
+# os - built into Python
+# datetime - built into Python
+# typing - built into Python
+# random - built into Python
+# time - built into Python 
